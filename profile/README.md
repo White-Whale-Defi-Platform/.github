@@ -1,4 +1,4 @@
-<p align="center"><a href="https://whitewhale.finance" target="_blank" rel="noopener noreferrer"><img src=""/>
+<p align="center"><a href="https://whitewhale.finance" target="_blank" rel="noopener noreferrer"><img src="https://github.com/White-Whale-Defi-Platform/.github/blob/main/assets/banner.jpeg"/>
 </a></p>
 <p align="center">
 <b>Interchain Arbitrage Infrastructure</b>
