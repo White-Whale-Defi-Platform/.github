@@ -20,9 +20,6 @@
 ### ⛓ [Migaloo Core](https://github.com/White-Whale-Defi-Platform/migaloo-core)
 Core contracts for White Whale V2 Migaloo 
 
-### 💧 [Pool Network](https://github.com/White-Whale-Defi-Platform/pool-network)
-Pool network contracts used on Migaloo
-
 ### 🖼 [Migaloo Frontend](https://github.com/White-Whale-Defi-Platform/migaloo-frontend)
 Migaloo's user interface for interacting with the pools and vaults
 
