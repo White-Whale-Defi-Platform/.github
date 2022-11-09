@@ -1,7 +1,7 @@
 <p align="center"><a href="https://whitewhale.finance" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/White-Whale-Defi-Platform/.github/blob/main/assets/banner.jpeg"/></a></p>
 <p align="center" style="font-size:20px"> 
-    <b>Interchain Arbitrage Infrastructure</b>
+    <b>Interchain Liquidity Infrastructure</b>
 </p>
 <p align="center"> 
      <b>Stabilizing Prices Across the IBC</b><br/><br/>
