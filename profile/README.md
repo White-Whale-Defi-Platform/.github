@@ -26,5 +26,5 @@ Pool network contracts used on Migaloo
 ### 🖼 [Migaloo Frontend](https://github.com/White-Whale-Defi-Platform/migaloo-frontend)
 Migaloo's user interface for interacting with the pools and vaults
 
-### 📖 [Documentation (General)]()
-_Under construction_
+### 📖 [Documentation (General)](https://ww0-1.gitbook.io/migaloo-docs/)
+Migaloo's documentation on the contracts, bots.
